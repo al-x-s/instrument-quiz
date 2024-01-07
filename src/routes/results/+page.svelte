@@ -58,7 +58,7 @@
 				.then(() => {
 					console.log('Thanks for sharing!');
 				})
-				.catch(copyAnimation());
+				.catch(console.log('Unable to share', error));
 		} else {
 			copyAnimation();
 		}
