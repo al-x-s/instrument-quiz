@@ -15,7 +15,7 @@
 
 <p id="credit">Created by Alex Slater. Full credits can be found <a href="/credits">here</a>.</p>
 
-<Background --bgImage="url(src/lib/images/all_instruments.svg)" />
+<Background --bgImage="url(/images/all_instruments.svg)" />
 
 <style>
 	a {

@@ -178,7 +178,7 @@ export const instrumentData = {
 		name: 'Saxophone',
 		info: 'https://teachingservices.com.au/sax/',
 		slug: 'sax',
-		image: '/src/lib/images/saxophone.svg',
+		image: '/images/saxophone.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/saxophone',
 		description: 'Saxophonists are tall, dextrous and have great breath control.'
@@ -187,7 +187,7 @@ export const instrumentData = {
 		name: 'Bass Guitar',
 		info: 'https://teachingservices.com.au/bassguitar/',
 		slug: 'bgtr',
-		image: '/src/lib/images/bass-guitar.svg',
+		image: '/images/bass-guitar.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/bass-guitar',
 		description:
@@ -197,7 +197,7 @@ export const instrumentData = {
 		name: 'Baritone Horn',
 		info: 'https://teachingservices.com.au/euphobaritone/',
 		slug: 'bar',
-		image: '/src/lib/images/baritone-horn.svg',
+		image: '/images/baritone-horn.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/tuba',
 		description:
@@ -207,14 +207,14 @@ export const instrumentData = {
 		name: 'Clarinet',
 		info: 'https://teachingservices.com.au/clarinet/',
 		slug: 'cl',
-		image: '/src/lib/images/clarinet.svg',
+		image: '/images/clarinet.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/clarinet',
 		description: 'Clarinetists are dextrous, determined and have great breath control.'
 	},
 	Flute: {
 		name: 'Flute',
-		image: '/src/lib/images/flute.svg',
+		image: '/images/flute.svg',
 		slug: 'fl',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/flute',
@@ -224,7 +224,7 @@ export const instrumentData = {
 		name: 'Percussion',
 		info: 'https://teachingservices.com.au/percussion/',
 		slug: 'perc',
-		image: '/src/lib/images/percussion.svg',
+		image: '/images/percussion.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/drum',
 		description:
@@ -234,7 +234,7 @@ export const instrumentData = {
 		name: 'Trombone',
 		info: 'https://teachingservices.com.au/trombone/',
 		slug: 'trb',
-		image: '/src/lib/images/trombone.svg',
+		image: '/images/trombone.svg',
 		attributionName: 'Nikita Golubev',
 		attributionLink: 'https://www.flaticon.com/free-icons/trombone',
 		description: 'Trombonists are strong, have great breath control and a natural ear for music.'
@@ -243,7 +243,7 @@ export const instrumentData = {
 		name: 'Trumpet',
 		info: 'https://teachingservices.com.au/trumpet/',
 		slug: 'tpt',
-		image: '/src/lib/images/trumpet.svg',
+		image: '/images/trumpet.svg',
 		attributionName: 'Freepik',
 		attributionLink: 'https://www.flaticon.com/free-icons/trumpet',
 		description: 'Trumpeters are dextrous, have great breath control and a natural ear for music.'
